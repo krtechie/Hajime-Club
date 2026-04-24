@@ -193,8 +193,10 @@ The club is for discipline – never for aggression or harming others.
 
 Only those who agree to these terms should join.
 
-🔗 WhatsApp Joining Link:  
-https://chat.whatsapp.com/C7kFe8yvdGL3E8Ah72rxBg
+🔗 WhatsApp Joining Link:
+
+```
+```
 
 ---
 
